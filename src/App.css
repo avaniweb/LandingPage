@@ -1,0 +1,420 @@
+body {
+  background-color: black;
+  color: #fff;
+}
+
+nav {
+  padding-left: 20px;
+}
+
+nav img {
+  margin-left: 50px;
+}
+
+ul li a {
+  text-decoration: none;
+  padding: 5px;
+  color: #fff;
+  margin-left: 40px;
+
+}
+
+ul .btn-nav {
+  margin-left: 200px;
+}
+
+.navbar-nav li a {
+  color: #fff;
+}
+
+/* Services */
+.svg-img svg {
+  margin-top: -60px;
+  margin-left: 580px;
+  opacity: 0.2;
+  color: #006064;
+
+}
+
+.svg-img-2 svg {
+  margin-top: -500px;
+  margin-left: 600px;
+  opacity: 0.3;
+
+}
+
+.Aenean {
+  padding: 50px;
+  margin-top: -400px;
+
+}
+
+.Aenean h3 {
+  font-size: 48px;
+}
+
+.Aenean p {
+  width: 500px;
+  font-size: 24px;
+}
+
+.Aenean .banner-img {
+  height: 300px;
+  width: 550px;
+  margin-top: -10px;
+
+}
+
+.Aenean button {
+  border: 1px solid#B2EBF2;
+  height: 40px;
+  border-radius: 5px;
+  width: 150px;
+  color: #B2EBF2;
+  background: transparent;
+  text-transform: uppercase;
+}
+
+.Aenean .icon-send {
+  margin-left: 10px;
+  margin-top: -5px;
+}
+
+/* Business Solution */
+.Business {
+  padding: 50px;
+  padding-left: 100px;
+}
+
+.Business .bussiness-text {
+  color: #2196F3;
+}
+
+.Business .line-1 {
+  width: 130px;
+  border-radius: 10px;
+  border: 5px solid #2196F3;
+  background-color: #2196F3;
+}
+
+/* AboutUs */
+.AboutUs {
+  margin-top: 80px;
+}
+
+.AboutUs .hero-box {
+  height: 280px;
+  width: 280px;
+  background-color: #2196F3;
+  opacity: 0.1;
+  border-radius: 20px;
+  transform: rotate(50deg);
+  margin-left: 150px;
+}
+
+.AboutUs .hero-box-1 {
+  height: 150px;
+  width: 150px;
+  background-color: #00BCD4;
+  transform: rotate(50deg);
+  border-radius: 20px;
+  opacity: 0.05;
+  margin-top: -320px;
+  margin-left: 130px;
+}
+
+.AboutUs .hero-box-2 {
+  height: 120px;
+  width: 120px;
+  transform: rotate(50deg);
+  border-radius: 20px;
+  background-color: #2196F3;
+  color: #fff;
+  margin-left: 180px;
+  margin-top: -37px
+}
+
+.AboutUs .hero-box-2 h3 {
+  width: 50px;
+  transform: translateY(77%);
+  rotate: 308deg;
+  margin-left: -20px;
+  font-size: 30px;
+}
+
+.AboutUs .hero-box-3 {
+  background-color: transparent;
+  height: 55px;
+  border: 5px solid #0D47A1;
+  width: 55px;
+  transform: rotate(50deg);
+  border-radius: 10px;
+  margin-left: 380px;
+  margin-top: -66px;
+
+}
+
+.AboutUs .puzzle-img {
+  height: 150px;
+  width: 150px;
+  margin-top: -319px;
+  margin-left: 320px;
+}
+
+.AboutUs .photo-img {
+  height: 150px;
+  width: 150px;
+  margin-left: 280px;
+  margin-top: -9px;
+}
+
+.AboutUs .employee h2 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.AboutUs .employee p {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.AboutUs .employee .line {
+  width: 50px;
+  border-radius: 10px;
+  border: 5px solid #2196F3;
+  margin-left: 75px;
+  z-index: 1;
+  margin-top: 20px;
+}
+
+.group-img-35 {
+  margin-top: 30px;
+  width: 100%;
+  height: 400px;
+}
+
+.Nulla {
+  margin-top: 40px;
+}
+
+.Nulla .illustration-img {
+  height: 400px;
+  width: 380px;
+  margin-left: 50px;
+}
+
+.Nulla .nulla-text {
+  margin-top: 30px;
+  width: 500px;
+}
+
+.Nulla h3 {
+  width: 50px;
+  transform: translateY(60%);
+  rotate: 308deg;
+  margin-left: -20px;
+
+}
+
+.Nulla .android-checkmark-background {
+  height: 30px;
+  width: 30px;
+  background-color: #BBDEFB;
+  border-radius: 5px;
+  transform: rotate(50deg);
+}
+
+.Nulla .android-checkmark-icon {
+  height: 20px;
+  width: 20px;
+  /* transform: rotate(-50deg); */
+  rotate: -50deg;
+}
+
+.Nulla .android-checkmark-background svg {
+  margin-top: 25%;
+}
+
+.Nulla .android-locate-background {
+  height: 30px;
+  width: 30px;
+  background-color: #B2EBF2;
+  border-radius: 5px;
+  transform: rotate(50deg);
+}
+.Nulla .android-locate-icon {
+  height: 20px;
+  width: 20px;
+  rotate: -50deg;
+}
+.Nulla .android-locate-icon svg {
+  margin-top: 25%;
+} 
+.Nulla .speedometer-background {
+  height: 30px;
+  width: 30px;
+  background-color: #EDE7F6;
+  border-radius: 5px;
+  transform: rotate(50deg);
+}
+
+.Nulla .speedometer-icon {
+  height: 20px;
+  width: 20px;
+  rotate: -50deg;
+}
+
+.Nulla .android-bulb-background {
+  height: 30px;
+  width: 30px;
+  background-color: #FBEABB;
+  border-radius: 5px;
+  transform: rotate(50deg);
+}
+
+.Nulla .android-bulb-icon {
+  height: 20px;
+  width: 20px;
+  rotate: -50deg;
+}
+.Nulla .android-bulb-icon  svg {
+  margin-top: 25%;
+}
+.Nulla h6 {
+  margin-top: 20px;
+}
+.Nulla p {
+  margin-top: 2%;
+}
+.casestudies {
+  margin-top: 30px;
+}
+
+.casestudies .group-img {
+  height: 300px;
+  width: 900px;
+  margin-right: 40px;
+}
+
+.casestudies h3 {
+  color: #BBDEFB;
+}
+
+.casestudies .Case-Studies-text {
+  margin-left: 70px;
+}
+
+.ready-to {
+  background-color: #0D47A1;
+  color: #fff;
+  height: 100px;
+  width: 90%;
+  border-radius: 20px;
+  margin-left: 5%;
+  margin-top: 40px;
+}
+.ready-to h6 {
+  margin-top: 5%;
+  margin-left: 20%;
+}
+.ready-to p {
+  margin-top: 1%;
+  margin-left: 20%;
+}
+.ready-to button {
+  width: 150px;
+  border-radius: 5px;
+  margin-top: 7%;
+  margin-left: 40%;
+  color: #2196F3;
+ border: none;
+}
+
+/* foooter js */
+.hero-footer {
+  padding: 50px 50px;
+}
+
+.facebook-background {
+  background-color: #000;
+  border-radius: 20px;
+  height: 30px;
+  width: 30px;
+  box-shadow: 0.5px 0.5px .5px 1px rgb(43, 42, 42);
+  margin-top: 20px;
+}
+
+.facebook-icon {
+  color: #2196F3;
+  hanging-punctuation: 15px;
+  width: 15px;
+  height: 15px;
+  transform: translate(55%, 7%);
+
+}
+
+.linked-background {
+  background-color: #000;
+  border-radius: 20px;
+  height: 30px;
+  width: 30px;
+  box-shadow: 0.5px 0.5px .5px 1px rgb(43, 42, 42);
+  margin-left: -10px;
+  margin-top: 20px;
+}
+
+.linked-icon {
+  color: #2196F3;
+  hanging-punctuation: 15px;
+  width: 15px;
+  height: 15px;
+  transform: translate(55%, 7%);
+}
+
+.twitter-background {
+  background-color: #000;
+  border-radius: 20px;
+  height: 30px;
+  width: 30px;
+  box-shadow: 0.5px 0.5px .5px 1px rgb(43, 42, 42);
+  margin-left: -20px;
+  margin-top: 20px;
+}
+
+.twitter-icon {
+  color: #2196F3;
+  hanging-punctuation: 15px;
+  width: 15px;
+  height: 15px;
+  transform: translate(55%, 7%);
+}
+
+.instagram-background {
+  background-color: #000;
+  border-radius: 20px;
+  height: 30px;
+  width: 30px;
+  box-shadow: 0.5px 0.5px .5px 1px rgb(43, 42, 42);
+  margin-left: -30px;
+  margin-top: 20px;
+}
+
+.instagram-icon {
+  color: #2196F3;
+  hanging-punctuation: 15px;
+  width: 15px;
+  height: 15px;
+  transform: translate(55%, 7%);
+}
+
+.hero-footer h6 {
+  color: #BBDEFB;
+}
+
+.dropdown {
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 116px;
+  border: 1px solid #2196F3;
+}
